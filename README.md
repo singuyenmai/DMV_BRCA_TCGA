@@ -1,7 +1,7 @@
 # Analyses on TCGA data studying DNA methylation valleys in breast cancer
 
 # Preliminary results
-In *preliminary* folder, results from prior analyses on WGBS data are stored. <br\>
+In *preliminary* folder, results from prior analyses on WGBS data are stored. <br/>
 These include positions of DMV signatures that are differentially methylated in triple negative and/or in endocrine resistant tumors; and their associated genes.
 
 # Access and query TCGA data on Google BigQuery
