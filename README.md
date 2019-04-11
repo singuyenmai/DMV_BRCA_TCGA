@@ -10,4 +10,5 @@ These include positions of DMV signatures that are differentially methylated in 
 - In the GCP project, BigQuery API is enabled. 
 - Authentication is set up.
 - Python package `google-cloud-bigquery` is installed. Can be by `conda install -c conda-forge google-cloud-bigquery`
+
 *For detailed instructions: go [here](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries#client-libraries-install-python)*
