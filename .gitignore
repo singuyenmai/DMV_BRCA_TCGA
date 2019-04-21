@@ -1,2 +1,5 @@
 # Until we publish the research, preliminary results are not publicly available.
 /preliminary/
+
+# Ignore big datasets >100Mb
+/datasets/hormone_meth_bigtable.HM450.tsv
