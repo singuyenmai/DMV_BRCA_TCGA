@@ -4,3 +4,4 @@
 # Ignore big datasets >100Mb
 /datasets/hormone_meth_bigtable.HM450.tsv
 /datasets/subtype_meth_bigtable.HM450.tsv
+/datasets/subtype_meth.HM450.tsv
