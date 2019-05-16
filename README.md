@@ -18,6 +18,7 @@ These include positions of DMV signatures that are differentially methylated in 
 
 - Same for among patients with "Complete response", did they respond better because they received hormone therapy with different strategy?
 
-- Cam we just compare: ("Low risk occurrence" + "Complete response") vs. ("Occured" + "Progressive/Stable")
+- Cam we just compare: ("Low occurrence" + "Complete response") vs. ("Occured" + "Progressive/Stable") ? - Yes, we did it. And in TCGA data - meth/expression of primary tumor - no difference was found (cannot cluster properly).
 
-- Within ER+ patients received hormone therapy, some are Basal and Normal-like. We observed when clustering subtype based on methylation data, methylation of our signatures differ Basal from Luminal & Her2, Normal-like from any other subtypes (and highly similar to normal tissues). Also, most of ERR signatures are also subtype-specific signatures ==> There could be heterogenous within each group of response due to different in subtype. ==> Should we exclude Basal & Normal-like cases when comparing between different responses?
+- Within ER+ patients received hormone therapy, some are Basal and Normal-like. We observed when clustering subtype based on methylation data, methylation of our signatures differ Basal from Luminal & Her2, Normal-like from any other subtypes (and highly similar to normal tissues). Also, most of ERR signatures are also subtype-specific signatures ==> There could be heterogenous within each group of response due to different in subtype. ==> Should we exclude Basal & Normal-like cases when comparing between different responses? <br/>
+**Note**: I think we don't need to answer this question/problem, since number of Basal & Normal-like cases received hormone therapy & having response information is very small. Rather, we should find and work on different datasets with data from recurrent tumors available.
