@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="1517.3389"
+   height="1891.3821"
+   viewBox="0 0 1517.3389 1891.3821"
+   sodipodi:docname="methdata.subtype.svg"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   inkscape:export-filename="/home/singuyen/epiCa/DMV/breast_wgbs-hg19/TCGA/plots/methdata_annotated.subtype.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath836">
+      <rect
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.84862804;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect838"
+         width="164.01283"
+         height="1840"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath842">
+      <rect
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.4523046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect844"
+         width="1336.8688"
+         height="1840"
+         x="501.68625"
+         y="18.618624" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath882">
+      <rect
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.2157681;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect884"
+         width="1334.9491"
+         height="1840"
+         x="368.38983"
+         y="7.9936058e-15" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.36277654"
+     inkscape:cx="342.96677"
+     inkscape:cy="634.37275"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="false" />
+  <image
+     sodipodi:absref="/home/singuyen/epiCa/DMV/breast_wgbs-hg19/TCGA/plots/methdata.subtype.png"
+     xlink:href="methdata.subtype.png"
+     width="1516"
+     height="1840"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
+     id="image10"
+     x="0"
+     y="0"
+     clip-path="url(#clipPath836)"
+     transform="matrix(1,0,0,0.84419682,0,160.43631)" />
+  <rect
+     style="fill:#5bc1b5;fill-opacity:1;stroke:none;stroke-width:4.98353434;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1"
+     width="144.46967"
+     height="151.38742"
+     x="14.029832"
+     y="5.3405762e-05" />
+  <image
+     sodipodi:absref="/home/singuyen/epiCa/DMV/breast_wgbs-hg19/TCGA/plots/methdata.subtype.png"
+     xlink:href="methdata.subtype.png"
+     transform="matrix(1,0,0,0.84419682,-186,160.43631)"
+     clip-path="url(#clipPath882)"
+     width="1516"
+     height="1840"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
+     id="image877"
+     x="187.33899"
+     y="0" />
+  <rect
+     style="fill:#ff96c0;fill-opacity:1;stroke:none;stroke-width:8.97871208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1-6"
+     width="1320.3611"
+     height="53.768364"
+     x="184.2746"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="844.97925"
+     y="38.61618"
+     id="text838"><tspan
+       sodipodi:role="line"
+       x="844.97925"
+       y="38.61618"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33333206px;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:center;text-anchor:middle"
+       id="tspan853">Tumor (n=789)</tspan></text>
+  <rect
+     style="fill:#2a2a2a;fill-opacity:0.99215686;stroke:none;stroke-width:2.20159435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1-6-4-6"
+     width="99.863838"
+     height="42.742298"
+     x="1127.0105"
+     y="108.64521" />
+  <rect
+     style="fill:#fbe6e1;fill-opacity:1;stroke:none;stroke-width:5.81480217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1-6-4-6-7"
+     width="696.63232"
+     height="42.742298"
+     x="184.2746"
+     y="59.83564" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="-76.024513"
+     y="73.925995"
+     id="text838-6"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan836-0"
+       x="-76.024513"
+       y="73.925995"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33333206px;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:center;text-anchor:middle">Normal</tspan><tspan
+       sodipodi:role="line"
+       x="-76.024513"
+       y="120.59266"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33333206px;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:center;text-anchor:middle"
+       id="tspan851">(n=98)</tspan></text>
+  <rect
+     style="fill:#f3c766;fill-opacity:1;stroke:none;stroke-width:3.37667322;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1-6-4-6-7-9"
+     width="234.91559"
+     height="42.742298"
+     x="886.50092"
+     y="59.83564" />
+  <rect
+     style="fill:#f46550;fill-opacity:1;stroke:none;stroke-width:3.3965528;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1-6-4-6-75"
+     width="237.68973"
+     height="42.742298"
+     x="1127.0105"
+     y="59.83564" />
+  <rect
+     style="fill:#9aaaba;fill-opacity:1;stroke:none;stroke-width:1.87326097;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1-6-4-6-9"
+     width="72.29866"
+     height="42.742298"
+     x="1370.2942"
+     y="59.83564" />
+  <rect
+     style="fill:#aaddd3;fill-opacity:1;stroke:none;stroke-width:1.6552366;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2407-1-6-4-6-9-7"
+     width="56.448681"
+     height="42.742298"
+     x="1448.1869"
+     y="59.83564" />
+  <text
+     id="text1120"
+     y="1767.2128"
+     x="177.02563"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33333206px;font-family:Lato;-inkscape-font-specification:'Lato Medium';stroke-width:0.99999994"
+       y="1767.2128"
+       x="177.02563"
+       id="tspan1118"
+       sodipodi:role="line">Subtype</tspan></text>
+  <text
+     id="text1120-0"
+     y="1876.5562"
+     x="1181.9658"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.99999994"
+       y="1876.5562"
+       x="1181.9658"
+       id="tspan1118-9"
+       sodipodi:role="line">Triple-negative (n=57)</tspan></text>
+  <rect
+     y="1796.3635"
+     x="178.70276"
+     height="32.857143"
+     width="81.122215"
+     id="rect2407"
+     style="fill:#fbe6e1;fill-opacity:1;stroke:none;stroke-width:1.73975873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="1850.5249"
+     x="178.70276"
+     height="32.857143"
+     width="81.122215"
+     id="rect2407-3"
+     style="fill:#f3c766;fill-opacity:1;stroke:none;stroke-width:1.73975873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="1796.3635"
+     x="599.47186"
+     height="32.857143"
+     width="81.122215"
+     id="rect2407-7"
+     style="fill:#aaddd3;fill-opacity:1;stroke:none;stroke-width:1.73975873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="1850.5249"
+     x="599.47186"
+     height="32.857143"
+     width="81.122215"
+     id="rect2407-4"
+     style="fill:#9aaaba;fill-opacity:1;stroke:none;stroke-width:1.73975873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="1796.3635"
+     x="1088.2422"
+     height="32.857143"
+     width="81.122215"
+     id="rect2407-5"
+     style="fill:#f46550;fill-opacity:1;stroke:none;stroke-width:1.73975873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="1850.5249"
+     x="1088.2422"
+     height="32.857143"
+     width="81.122215"
+     id="rect2407-2"
+     style="fill:#2b2b2b;fill-opacity:0.99038463;stroke:none;stroke-width:1.73975873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text1120-0-5"
+     y="1825.4194"
+     x="1181.9661"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.99999994"
+       y="1825.4194"
+       x="1181.9661"
+       id="tspan1118-9-4"
+       sodipodi:role="line">Basal (n=135)</tspan></text>
+  <text
+     id="text1120-0-7"
+     y="1879.5981"
+     x="692.34552"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.99999994"
+       y="1879.5981"
+       x="692.34552"
+       id="tspan1118-9-44"
+       sodipodi:role="line">HER2-enriched (n=46)</tspan></text>
+  <text
+     id="text1120-0-5-3"
+     y="1825.4194"
+     x="692.48096"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.99999994"
+       y="1825.4194"
+       x="692.48096"
+       id="tspan1118-9-4-0"
+       sodipodi:role="line">Normal-like (n=34)</tspan></text>
+  <text
+     id="text1120-0-78"
+     y="1879.5808"
+     x="272.71405"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.99999994"
+       y="1879.5808"
+       x="272.71405"
+       id="tspan1118-9-6"
+       sodipodi:role="line">Luminal B (n=147)</tspan></text>
+  <text
+     id="text1120-0-5-8"
+     y="1825.4194"
+     x="272.71405"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.99999994"
+       y="1825.4194"
+       x="272.71405"
+       id="tspan1118-9-4-8"
+       sodipodi:role="line">Luminal A (n=419)</tspan></text>
+</svg>
